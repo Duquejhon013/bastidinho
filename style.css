@@ -1,0 +1,31 @@
+/*
+primary:3B3486
+secundary:7743DB
+light:FFE9B1
+info:FCFDF2
+*/
+.text-light{
+    color:#FF5858 ;
+}
+.bg-primary{
+    background-color:#9A1663;
+}
+.text-center{
+    text-align: center;
+}
+.text-secondary{
+    color: #E0144C;
+    text-align: center;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color:#FF97C1;
+}
+.text-primary{
+ color: #9A1663;
+}
+.text-white{
+color: white;
+}
